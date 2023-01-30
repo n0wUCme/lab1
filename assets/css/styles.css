@@ -1,0 +1,31 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.pad-64{
+    padding: 64px;
+}
+
+.jumbotron{
+    color: white;
+    background-color: rgb(146, 73, 214) !important;
+    justify-content: center;
+}
+
+.ct4, .ct3, .ct2{
+    margin: 32px 0;
+}
+
+.left-16{
+    margin-left: 16px;
+}
+
+.footer{
+    background-color: rgb(206, 186, 223);
+    padding: 16px;
+}
+
+a{
+    text-decoration: none;
+}
+
